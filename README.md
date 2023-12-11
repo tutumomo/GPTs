@@ -183,6 +183,30 @@ This repo collects leaked prompts of GPTs.
 - [ask_ida/c++](./prompts/ask_ida-c++.md) by Elias Bachaalany
 - [情感对话大师——帮你回复女生](./prompts/情感对话大师——帮你回复女生.md) by Audria Rice
 - [AboutMe](./prompts/AboutMe.md) by Pietro Schirano
+- [Dream Labyrinth(梦境跑团)](./prompts/Dream%20Labyrinth(梦境跑团).md) by 缨缨 
+- [Bake Off](./prompts/Bake%20Off.md) by mindgoblinstudios.com
+- [Professor Synapse](./prompts/Professor%20Synapse.md) by Joseph Rosenbaum
+- [GPTsdex](./prompts/GPTsdex.md) by gptsdex.com
+- [HongKongGPT](./prompts/HongKongGPT.md)
+- [Toronto City Council Guide](./prompts/Toronto%20City%20Council%20Guide.md) by George Bell
+- [YouTubers Creative ToolBox](./prompts/YouTubers%20Creative%20ToolBox.md) by WeSeGo
+- [Evolution Chamber](./prompts/Evolution%20Chamber.md) by mindgoblinstudios.com
+- [Media Magic Mike](./prompts/Media%20Magic%20Mike.md) by jbgpts.com
+- [GPT Idea Genie](./prompts/GPT%20Idea%20Genie.md) by silentdis.co
+- [Video Scripter](./prompts/Video%20Scripter.md) by Ruben Messerschmidt
+- [SWOT Analysis](./prompts/SWOT%20Analysis.md) by B M O SOLANO
+- [ScriptCraft](./prompts/ScriptCraft.md) by charly-ai.com
+- [Radical Selfishness](./prompts/Radical%20Selfishness.md)
+- [PPT Expert](./prompts/PPT%20Expert.md) by Shutong Wang
+- [留学文书大师 Essay Architect](./prompts/留学文书大师%20Essay%20Architect.md) by CHAISIGIN
+- [Briefly](./prompts/Briefly.md) by gptriddle.com
+- [PhoneixInk](./prompts/PhoneixInk.md) by MEHMET GENCAY IŞIK
+- [Samurai ⛩ AI summary](./prompts/Samurai%20AI%20Summary.md) by gosamurau.ai
+- [Packaging Expert](./prompts/Packaging%20Expert.md) by charly-ai.com
+- [Humanizer Pro](./prompts/Humanizer%20Pro.md) by charly-ai.com
+- [Ebook Writer & Designer GPT](./prompts/Ebook%20Writer%20%26%20Designer%20GPT.md) by Dasher
+- [Ghostwriters](./prompts/Ghostwriters.md) by osita okaforezeadi
+- [Riddle Master (燈謎天尊)](./prompts/Riddle%20Master%20%28%E7%87%88%E8%AC%8E%E5%A4%A9%E5%B0%8A%29) by WEBBER CHANG
 
 ## Open Source GPTs
 GitHub repos with prompts, actions and knowledge files of existing GPTs.
