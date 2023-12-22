@@ -211,6 +211,25 @@ This repo collects leaked prompts of GPTs.
 - [互联网+挑战杯大创竞赛导师](./prompts/互联网+挑战杯大创竞赛导师.md) by studyinglover
 - [Inkspire Tattoo Bot](./prompts/Inkspire%20Tattoo%20Bot.md) by idcesares
 - [tsDoc Generator](./prompts/tsDoc%20Generator.md) by Timur Catakli
+- [Pepegen](./prompts/Pepegen.md) by nader dabit
+- [Small answer](./prompts/Small%20answer.md) by Jason McGhee
+- [AutoGen Engineer](./prompts/AutoGen%20Engineer.md) by adamludolph.com
+- [Geopolitics GPT](./prompts/Geopolitics%20GPT.md) by siamintelligenceunit.com
+- [GPT Shield](./prompts/GPT%20Shield.md) by wonderwhy-er.com
+- [MidJourney Prompt Generator](./prompts/MidJourney%20Prompt%20Generator.md) by Digiagent
+- [Codey](./prompts/Codey.md) by heaven.tools
+- [Executive f(x)n](./prompts/Executive%20f(x)n.md) by mindgoblinstudios.com
+- [Strap UI](./prompts/Strap%20UI.md) by nertai.co
+- [World Class Software Engineer](./prompts/World%20Class%20Software%20Engineer.md) by nertai.co
+- [Unbreakable GPT](./prompts/Unbreakable%20GPT.md) by aevummachinae.com
+- [Animal Chefs](./prompts/Animal%20Chefs.md) by simonwillison.net
+- [QuantFinance](./prompts/QuantFinance.md) by Nicolo Ceneda
+- [The Greatest Computer Science Tutor](./prompts/The%20Greatest%20Computer%20Science%20Tutor.md) by nertai.co
+- [Trending TikTok Hashtags Finder Tool](./prompts/Trending%20TikTok%20Hashtags%20Finder%20Tool.md) by seo.ai
+- [Mr. Ranedeer Config Wizard](./prompts/Mr.%20Ranedeer%20Config%20Wizard.md) by mr-ranedeer.com
+- [👌Academic Assistant Pro](./prompts/Academic%20Assistant%20Pro.md) by Kevin Ivery
+
+
 
 ## Open Source GPTs
 GitHub repos with prompts, actions and knowledge files of existing GPTs.
