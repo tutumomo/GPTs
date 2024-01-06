@@ -228,11 +228,22 @@ This repo collects leaked prompts of GPTs.
 - [Trending TikTok Hashtags Finder Tool](./prompts/Trending%20TikTok%20Hashtags%20Finder%20Tool.md) by seo.ai
 - [Mr. Ranedeer Config Wizard](./prompts/Mr.%20Ranedeer%20Config%20Wizard.md) by mr-ranedeer.com
 - [👌Academic Assistant Pro](./prompts/Academic%20Assistant%20Pro.md) by Kevin Ivery
-
-
+- [Front-end expert](./prompts/Front-end%20expert.md) by Zhang Xiaoyuan
+- [ChatSSH: talk to your linux computers](./prompts/chatssh.md) by chatssh.net
+- [Chat NeurIPS](./prompts/Chat%20NeurIPS.md) by myaidrive.com
+- [WebGPT🤖](./prompts/WebGPT.md) by wegpt.ai
 
 ## Open Source GPTs
 GitHub repos with prompts, actions and knowledge files of existing GPTs.
 
 - [Open Data Germany](https://github.com/stefangrotz/OpenDataGermanyGPT)
 - [EsperantoGPT](https://github.com/parolteknologio/EsperantoGPT)
+
+## GPT Prompt Analysis
+Analysis and summaries of the GPT prompts.
+
+- [GPT Prompt Notes](https://grantjenks.github.io/gpt-prompt-notes/)
+
+## Contributors
+
+![Contributors](https://contrib.rocks/image?repo=linexjlin/GPTs)
